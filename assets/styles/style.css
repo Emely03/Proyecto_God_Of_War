@@ -6,7 +6,7 @@
 }
 
 .menu2{
-    background-color: rgb(37, 206, 206);
+    background-color: rgb(15, 16, 16);
     opacity: 0,8;
     transition: 1s;
 }
@@ -42,8 +42,8 @@ text-align: center;
     font-size: large;
 }
 .card{
-    background-color: rgb(118, 198, 242);
-    opacity: 0.7;
+    background-color: rgb(21, 168, 248);
+    opacity: 0.9;
     
 }
 .card2{
@@ -79,7 +79,7 @@ color: aliceblue;
     border-radius:200px;
     background-color: rgb(14, 14, 13);
     margin-top: 25%; 
-    margin-left:10%; 
+    margin-left:35%; 
     width: 30%;
     height: 50px
 }
@@ -90,4 +90,9 @@ color: aliceblue;
 }
 .libreria{
     background-color: rgb(53, 51, 51);
+}
+.letra a{
+    color: rgb(192, 91, 52) !important;
+    font-size: larger;
+    font-weight: 100%;
 }
