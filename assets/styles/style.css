@@ -16,6 +16,12 @@
     background-size: cover;
     padding: 5% 15% 5% 5%;
 }
+.banner2{
+    background-image: url('../images/img7.jpg');
+    background-position: top center;
+    background-size: cover;
+    padding: 5% 15% 5% 5%;
+}
 .img1{
     width: 11%;
 
@@ -24,6 +30,11 @@
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 color: rgb(23, 134, 231);
 text-align: center;
+}
+.h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(192, 91, 52) !important;
+    text-align: center;
 }
 .p{
     color: rgb(0, 0, 0);
@@ -52,7 +63,11 @@ text-align: center;
 }
 
 .footer{
-    background-color: rgb(55, 41, 183);
+    background-color: black;
+    color: rgb(192, 91, 52) !important;
+    font-size: small;
+    font-weight: 100%;
+   
 }
 .login{
 
@@ -95,4 +110,16 @@ color: aliceblue;
     color: rgb(192, 91, 52) !important;
     font-size: larger;
     font-weight: 100%;
+}
+.movil{
+    background-image: url('../images/Tienda_virtaul/figuras2.jpg');
+    background-attachment: fixed;
+    height: 800px;
+    width: 800%;
+}
+.movil2{
+    background-image: url('../images/imgmovil.jpg');
+    background-attachment: fixed;
+    height: 800px;
+  
 }
