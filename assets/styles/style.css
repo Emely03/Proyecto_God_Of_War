@@ -65,7 +65,7 @@ text-align: center;
 .footer{
     background-color: black;
     color: rgb(192, 91, 52) !important;
-    font-size: small;
+    font-size: medium;
     font-weight: 100%;
    
 }
@@ -79,7 +79,7 @@ text-align: center;
 }
 .formulario{
     background-color: black;
-    opacity: 0.7;
+    opacity: 0.8;
     border-radius: 20px;
    
 }
